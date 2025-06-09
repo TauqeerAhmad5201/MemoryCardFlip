@@ -23,6 +23,12 @@ A modern, full-stack memory card matching game built with Next.js and Nest.js.
 - Beautiful gradient backgrounds
 - Interactive 3D card flip effects
 
+### Screenshots
+
+![Pasted image (2)](https://github.com/user-attachments/assets/278076c3-6c93-433a-8733-4d0f629d3bea)
+![Pasted image](https://github.com/user-attachments/assets/ae097e79-5eb4-405b-96d1-e5bcb7a4843d)
+
+
 ## Tech Stack
 
 ### Frontend
